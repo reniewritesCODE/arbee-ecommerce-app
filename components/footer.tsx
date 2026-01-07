@@ -76,7 +76,7 @@ export function Footer() {
 
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-border flex flex-col sm:flex-row justify-between items-center gap-4">
-          <p className="text-sm text-muted-foreground">© 2025 AudioTech. All rights reserved.</p>
+          <p className="text-sm text-muted-foreground">© 2025 Arbee. All rights reserved.</p>
           <div className="flex items-center gap-4">
             <Link href="#" className="text-muted-foreground hover:text-foreground transition-colors">
               <Twitter className="h-5 w-5" />
